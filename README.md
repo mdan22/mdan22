@@ -22,4 +22,6 @@ Here are some ideas to get you started:
 
 <p style="display: inline-block;">My Skillset: Java, JavaScript, Python, C++, HTML, CSS, Git, GitHub, Linux, Windows, Stable Diffusion</p>
 <br />
+<a href="https://mdan22.github.io/">
 <img src="https://skillicons.dev/icons?i=java,js,python,cpp,html,css,git,github,linux,windows" alt="Skillset Icons" style="display: inline-block;"/>
+<a/>

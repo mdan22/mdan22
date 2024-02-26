@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on my portfolio site: [mdan22.github.io](mdan22.github.io)
+- 🔭 I’m currently working on my portfolio site: [mdan22.github.io](https://mdan22.github.io/)
 - 🌱 I’m currently learning how to build apps via Android Studio for Software Engineering class.
 - 👯 I’m looking to collaborate on web and app development projects.
-- 📫 How to reach me: Contact me on my [website](mdan22.github.io).
+- 📫 How to reach me: Contact me on my [website](https://mdan22.github.io/).
 
 <p style="display: inline-block;">My Skillset: Java, JavaScript, Python, C++, HTML, CSS, Git, GitHub, Linux, Windows, Stable Diffusion</p>
 <br />

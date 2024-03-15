@@ -13,15 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Daniel👋
-IT student from Germany
+# Hi there, I'm Daniel👋
 
-- 🔭 I’m currently working on my portfolio site: [mdan22.github.io](https://mdan22.github.io/)
-- 🌱 I’m currently learning JavaScript.
-- 👯 I’m looking to collaborate on web and app development projects.
-- 📫 How to reach me: Contact me on my [website](https://mdan22.github.io/).
+### About
+- 🌱 I’m currently learning JavaScript
+- 👯 I’m looking to collaborate on web dev projects
+- 📫 How to reach me: Contact me on my [website](https://mdan22.github.io/)
 
-<p style="display: inline-block;">Skills: Java, JavaScript, Python, C++, HTML, CSS, Git, GitHub, Linux, Windows, Stable Diffusion</p>
+### Skills
+<p style="display: inline-block;">Java, JavaScript, Python, C++, HTML, CSS, Git, GitHub, Linux, Windows, Stable Diffusion</p>
 <br />
 <a href="https://mdan22.github.io/">
 <img src="https://skillicons.dev/icons?i=java,js,python,cpp,html,css,git,github,linux,windows" alt="Skillset Icons" style="display: inline-block;"/>
